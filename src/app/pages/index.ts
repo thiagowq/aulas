@@ -1,1 +1,1 @@
-export *from './dashboard/dashboard';
+import { Dashboard } from '../pages/dashboard/dashboard';

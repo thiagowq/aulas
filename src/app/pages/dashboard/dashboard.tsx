@@ -1,7 +1,7 @@
+import React from 'react';
 
-
-export const dashboard = () => {
-    return{
-        <p>dashboard</p>
-    };
+export const Dashboard = () => {
+  return (
+    <p>dashboard</p>
+  );
 };
